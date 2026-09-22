@@ -1,0 +1,6 @@
+{
+  "name": "MagaMart - IoT & Hardware Prototyping Platform",
+  "description": "Custom e-commerce platform and Java MVC architecture for IoT components, sensors, and hardware prototyping equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
